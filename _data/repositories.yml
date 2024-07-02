@@ -2,6 +2,6 @@ github_users:
   - xiyudu
 
 github_repos:
-  - google/jax-md
+  - jax-md/jax-md
   - glotzerlab/hoomd-blue
   - glotzerlab/freud

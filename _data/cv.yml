@@ -8,26 +8,6 @@
 #     - name: Languages
 #       value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Physics
-      institution: University of Michigan, Ann Arbor, MI, USA
-      year: 2018
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: Bachelor of Arts in Physics and Mathematics
-      institution: Beloit College, Beloit, WI, USA
-      year: 2012
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-
 - title: Experience
   type: time_table
   contents:
@@ -51,6 +31,27 @@
     - title: Postdoctoral Fellow
       institution: Harvard University, Cambridge, MA, USA
       year: 2018 - 2021
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Physics
+      institution: University of Michigan, Ann Arbor, MI, USA
+      year: 2018
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Bachelor of Arts in Physics and Mathematics
+      institution: Beloit College, Beloit, WI, USA
+      year: 2012
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+
 
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
